@@ -1,0 +1,2 @@
+INSERT INTO TBL_FORNECEDOR ( NAME, CONTACT, ACTIVE, CATEGORY) VALUES ('Ze da manga', 'zedamanga@gmail.com', TRUE, 'Regional');
+INSERT INTO TBL_FORNECEDOR ( NAME, CONTACT, ACTIVE, CATEGORY) VALUES ('TomborilBombril', 'tomborilbombril@gmail.com', TRUE, 'Internacional');
